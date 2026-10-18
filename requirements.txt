@@ -1,0 +1,6 @@
+﻿# Planned analysis and test dependencies; not installed or version-verified here.
+# Not required for the first 5G lab. Pin versions after verifying the environment.
+scapy
+pandas
+scikit-learn
+pytest
